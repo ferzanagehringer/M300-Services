@@ -253,3 +253,7 @@ Glossar
 | Reverse Proxy | Ein Proxy-Server ist ein dedizierter Computer oder Softwaresystem und dient als Vermittler zwischen einem Endpunktgerät, zum Beispiel einem Computer, und einem anderen Server fungiert, von dem ein Benutzer oder Client einen Dienst anfordert. Der Proxy-Server kann sich auf derselben Maschine wie ein Firewall-Server befinden oder auf einem separaten Server, der Anfragen durch die Firewall weiterleitet. |
 | Virtualisierung | Virtualisierung erlaubt es, eine Hardware als mehrere (virtuelle) Maschinen darzustellen. Das Virtualisierungs-System sorgt dafür, dass die Hardware auf die verschiedenen Gast-Systeme verteilt wird. Auf jedem Gast-System wird ein vollständiges Betriebssystem installiert. Im Kontext dieses Betriebssystems kann man seine Applikationen laufen lassen. |
 | Linux | Linux ist ein Betriebssystem wie Windows. Allerdings sind die meisten Linux-Betriebssysteme kostenlos und können viel freier konfiguriert werden. |
+
+
+### Reflexion
+Ich habe während der LB01 sehr viel dazu lernen können. Ich habe Vagrant kennengelernt und auch GitHub. Ich konnte auch im Detail mit den Siherheitsaspekten arbeiten und habe auch in diesem Bereich viele neue Dinge dazugelernt. Was ich aber am besten fand, war Vagrant. Ich kann nun viel einfacher und schneller mehrere VM's erstellen. Vorher war dies sehr langsam und ich konnte nicht mehrere auf einaml aufsetzten. Also im Grossen und Ganzen war die LB01 schon sehr informtiv und belehrend.
