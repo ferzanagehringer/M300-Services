@@ -128,6 +128,43 @@ Kubernetes Cluster
 
 Bei einem Cluster wird ein Kubernetes Master und mehrere Worker erzeugt. Diese Umgebung eignet sich zur Demonstration einer Verteilten Umgebung
 
+Zusatzaufgaben
+--
+
+##### Image Bereitstellen
+1. Zuerst muss man ein Container erstellen, mit dem Image, welches man auf Docker pushen will.
+2. Danach muss man diesen pushen in das Dockerhub.
+
+##### Continous Integration
+Ist der den Prozess des fortlaufenden Zusammenfügens von Komponenten zu einer Anwendung beschreibt.
+
+Das Ziel der kontinuierlichen Integration ist die Steigerung der Softwarequalität.
+
+Üblicherweise wird dafür nicht nur das Gesamtsystem neu gebaut, sondern es werden auch automatisierte Tests durchgeführt und Software-Metriken zur Messung der Softwarequalität erstellt.
+
+##### Cloud Integration
+Mithilfe der Cloud-Integration lassen sich lokal gespeicherte Daten nahtlos mit Informationen und Anwendungen in der Cloud nutzen.
+Heute ist die Virtualisierung besser als früher. Früher hatte man alles physisch und heute alles in der Cloud.
+
+*Vorteile:*
+* Netzwerkverkehrsmuster
+* Nutzerverhalten
+* Sicherheitsrelevante Ereignisse, sowohl extern als auch in Ihrer Umgebung
+* Compliance-Informationen
+* Fehler und Anomalien, die Ihre Performancedaten beeinflussen
+* Ressourcennutzung
+
+*iPaas*
+
+Bei Integration-Platform-as-a-Service handelt es sich um eine unkomplizierte Lösung für das Hosting, die Entwicklung und die Integration von Cloud-Daten und -Anwendungen.
+
+*Saas*
+
+Software as a Service. SaaS ist neben Infrastructure as a Service (IaaS) und Platform as a Service (PaaS) eine der drei Hauptkategorien des Cloud Computing.
+
+*Iaas*
+
+ Infrastruktur as a Service. IT Infra­struktur wie Rechenleistung, Datenspeicher oder Netzkapazität bedarfsgerecht aus der Cloud zu be­zie­hen.
 
 Testfälle
 --
